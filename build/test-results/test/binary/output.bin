@@ -1,1 +1,2 @@
-„16:07:59.447 [Test worker] INFO org.reflections.Reflections - Reflections took 25 ms to scan 0 urls, producing 0 keys and 0 values
+j17:54:03.022 [Test worker] INFO com.carros.controller.AuthorBookController - Esta no adicionando o autor
+„17:54:03.163 [Test worker] INFO org.reflections.Reflections - Reflections took 19 ms to scan 0 urls, producing 0 keys and 0 values
