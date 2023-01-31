@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.carros.controller.AuthorBookControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-31T19:07:59" hostname="DANIEL" time="0.924">
+  <properties/>
+  <testcase name="addAuthorBook()" classname="com.carros.controller.AuthorBookControllerTest" time="0.924"/>
+  <system-out><![CDATA[16:07:59.447 [Test worker] INFO org.reflections.Reflections - Reflections took 25 ms to scan 0 urls, producing 0 keys and 0 values
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
